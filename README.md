@@ -1,2 +1,3 @@
-# machine-learning-execise
-机器学习的练习和一些书上的项目
+#机器学习
+#Python 可视化
+#python 数据处理
